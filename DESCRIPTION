@@ -1,6 +1,6 @@
 Package: warp
 Title: Group Dates
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: 
     c(person(given = "Davis",
              family = "Vaughan",
@@ -21,12 +21,12 @@ Depends: R (>= 3.2)
 Suggests: covr, testthat (>= 2.1.0), knitr, rmarkdown
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.1
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2020-01-10 22:08:24 UTC; davis
+Packaged: 2020-10-21 17:22:54 UTC; davis
 Author: Davis Vaughan [aut, cre],
   RStudio [cph]
 Maintainer: Davis Vaughan <davis@rstudio.com>
 Repository: CRAN
-Date/Publication: 2020-01-14 11:40:03 UTC
+Date/Publication: 2020-10-21 18:00:02 UTC
