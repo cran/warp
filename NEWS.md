@@ -1,3 +1,7 @@
+# warp 0.2.1
+
+* Fixed a test related to an R-devel bugfix in `as.POSIXlt()` (#36).
+
 # warp 0.2.0
 
 * All optional arguments must now be specified by name.

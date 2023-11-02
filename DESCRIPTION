@@ -1,32 +1,30 @@
 Package: warp
 Title: Group Dates
-Version: 0.2.0
-Authors@R: 
-    c(person(given = "Davis",
-             family = "Vaughan",
-             role = c("aut", "cre"),
-             email = "davis@rstudio.com"),
-      person(given = "RStudio",
-             role = "cph"))
-Description: Tooling to group dates by a variety of periods
-    including: yearly, monthly, by second, by week of the month, and more.
-    The groups are defined in such a way that they also represent the
-    distance between dates in terms of the period. This extracts valuable
+Version: 0.2.1
+Authors@R: c(
+    person("Davis", "Vaughan", , "davis@posit.co", role = c("aut", "cre")),
+    person("Posit Software, PBC", role = c("cph", "fnd"))
+  )
+Description: Tooling to group dates by a variety of periods including:
+    yearly, monthly, by second, by week of the month, and more.  The
+    groups are defined in such a way that they also represent the distance
+    between dates in terms of the period. This extracts valuable
     information that can be used in further calculations that rely on a
     specific temporal spacing between observations.
 License: MIT + file LICENSE
-URL: https://github.com/DavisVaughan/warp
+URL: https://github.com/DavisVaughan/warp,
+        https://davisvaughan.github.io/warp/
 BugReports: https://github.com/DavisVaughan/warp/issues
 Depends: R (>= 3.2)
-Suggests: covr, testthat (>= 2.1.0), knitr, rmarkdown
-Encoding: UTF-8
-LazyData: true
-RoxygenNote: 7.1.1
+Suggests: covr, knitr, rmarkdown, testthat (>= 3.0.0)
 VignetteBuilder: knitr
+Config/Needs/website: tidyverse/tidytemplate
+Encoding: UTF-8
+RoxygenNote: 7.2.3
 NeedsCompilation: yes
-Packaged: 2020-10-21 17:22:54 UTC; davis
+Packaged: 2023-11-02 13:46:26 UTC; davis
 Author: Davis Vaughan [aut, cre],
-  RStudio [cph]
-Maintainer: Davis Vaughan <davis@rstudio.com>
+  Posit Software, PBC [cph, fnd]
+Maintainer: Davis Vaughan <davis@posit.co>
 Repository: CRAN
-Date/Publication: 2020-10-21 18:00:02 UTC
+Date/Publication: 2023-11-02 17:40:02 UTC
