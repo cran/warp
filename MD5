@@ -1,7 +1,7 @@
-388b6601c08d07542e2b6b324f36eb63 *DESCRIPTION
+25918ad7329cbe623b5b4ab75165ed9a *DESCRIPTION
 b3b6349ded0096c65778cfe918246a6c *LICENSE
 73ac4c15c755b9d1555082ad53ab0909 *NAMESPACE
-e31d0f1d9a5fbe9657fa1a8f0d2730c8 *NEWS.md
+4b9e8bb7347edc01e828d80d554c5165 *NEWS.md
 dc636b950d3e57b6bf266f03d30dbbb2 *R/boundary.R
 81454133f52c9b2a9e0dc7c16f428ea7 *R/change.R
 c180a345346dde264015c70ceb360332 *R/date.R
@@ -12,7 +12,7 @@ a5f64f23c3a85bacb76d6db2c87a41c0 *R/divmod.R
 6fb450352e850f2c3e852f9a648f1822 *R/warp-package.R
 56a10dc9178533f454b88bfa09ae7b08 *R/zzz.R
 fa260f2a4cd79e3db7267b13d05e35a1 *README.md
-c86adb2efea95839eaa270f54433da9a *build/vignette.rds
+ccca99bf5315e70eed3041af66a10afb *build/vignette.rds
 b4bfb0c4b4e1643551d8c73bf2845ba3 *inst/doc/hour.R
 c7c9b2ae8a33a1c3ec75c9b5474b182f *inst/doc/hour.Rmd
 494dec28c3e51b275e777cbe65631398 *inst/doc/hour.html
@@ -22,7 +22,7 @@ a76227450e49a07e88add3872142e641 *man/warp_boundary.Rd
 76e962f1fd23e9c803f14b7cffc3a0e2 *man/warp_distance.Rd
 c275773b9432b4de22f0c27b8bd9a6c1 *src/boundary.c
 5a4a9745c645bc784709f65da8a909d3 *src/change.c
-9ae7932a496bb4c9ead4c022b35649b6 *src/coercion.c
+c649eac92bf34d26b9a858d99b207aa5 *src/coercion.c
 bf3f1e90ce49b0e94c8d91220763d47a *src/date.c
 7f49dec486aa3795f7cdbd00062620ec *src/distance.c
 890e8dfad34523d91136cc58514d5a18 *src/divmod.c

@@ -1,3 +1,7 @@
+# warp 0.2.3
+
+* Removed usage of `ATTRIB()` and `SET_ATTRIB()`.
+
 # warp 0.2.2
 
 * warp is now compliant with R's C API (#39).

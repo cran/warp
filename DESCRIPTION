@@ -1,6 +1,6 @@
 Package: warp
 Title: Group Dates
-Version: 0.2.2
+Version: 0.2.3
 Authors@R: c(
     person("Davis", "Vaughan", , "davis@posit.co", role = c("aut", "cre")),
     person("Posit Software, PBC", role = c("cph", "fnd"),
@@ -26,9 +26,9 @@ Config/usethis/last-upkeep: 2025-11-13
 Encoding: UTF-8
 RoxygenNote: 7.3.3
 NeedsCompilation: yes
-Packaged: 2025-11-14 19:28:25 UTC; davis
+Packaged: 2026-01-13 02:10:17 UTC; davis
 Author: Davis Vaughan [aut, cre],
   Posit Software, PBC [cph, fnd] (ROR: <https://ror.org/03wc8by49>)
 Maintainer: Davis Vaughan <davis@posit.co>
 Repository: CRAN
-Date/Publication: 2025-11-14 23:30:02 UTC
+Date/Publication: 2026-01-13 06:10:02 UTC
